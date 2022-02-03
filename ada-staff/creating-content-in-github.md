@@ -51,3 +51,7 @@ result: [github](http://github.com)
 Give it a try in your sample file/lesson.
 
 At this time, we have outsourced the training for writing Markdown to [this guide](https://www.markdownguide.org/). Please share other useful resources you find!
+
+## What's Next
+
+Next we will learn how to create interactive content in Learn using the Learn Command Line Interface Tool.

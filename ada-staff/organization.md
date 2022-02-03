@@ -22,7 +22,9 @@ For example, **Precourse**, **About Ada**, and **Unit 1** are all Units in the A
 
 ![Learn Units](../assets/github-units.png)
 
-A single Learn course can be made up of one or more Units/Repositories. To create a new Unit, ask a Learn Admin to create a new repository for you.
+A single Learn course can be made up of one or more Units/Repositories. 
+
+To create a new Unit, ask a Learn Admin to create a new repository. To include this Unit in your course, work with a Learn Admin to update the **course.yaml** file.
 
 ### Folders / Topics
 

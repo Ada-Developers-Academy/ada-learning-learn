@@ -16,15 +16,24 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 3751283f4c909a9345f32666474f62c5
-        Path: /ada-staff/getting-started.md
-      -
-        Type: Lesson
         UID: fddaf8a3-1f41-4d7f-b13f-d4fd24c742a7
         Path: /ada-staff/organization.md
       -
         Type: Lesson
         UID: b183a812-77b8-4d88-84cb-e7445901c898
         Path: /ada-staff/creating-content-in-github.md
+      -
+        Type: Lesson
+        UID: 5a781c3a-571c-4041-beda-a43bbb713f1f
+        Path: /ada-staff/interactive.md
+      -
+        Type: Lesson
+        UID: bb63ac9c-3881-4742-89e3-38172bd03d21
+        Path: /ada-staff/publishing-curriculum.md
+      -
+        Type: Lesson
+        UID: c5b5d746-d6fc-4e03-a382-7fe63fb09a16
+        Path: /ada-staff/creating-content-locally.md
+
 
 
