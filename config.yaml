@@ -8,13 +8,23 @@
 ---
 Standards:
   -
-    Title: Instructional Staff
-    Description: Instructional Staff
-    UID: 5caf44125a0e87aaa5c4d7cf4c846d00
+    Title: Ada Staff
+    Description: GitHub, Learn, and Markdown
+    UID: 511f7698388478e3ba00a55e35f0a80a
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 152e7cd30dc92ffb90a926a708c27bd1
-        Path: /instructional-staff/learn-cli.md
+        UID: 3751283f4c909a9345f32666474f62c5
+        Path: /ada-staff/getting-started.md
+      -
+        Type: Lesson
+        UID: fddaf8a3-1f41-4d7f-b13f-d4fd24c742a7
+        Path: /ada-staff/organization.md
+      -
+        Type: Lesson
+        UID: fddaf8a3-1f41-4d7f-b13f-d4fd24c742a7
+        Path: /ada-staff/creating-content-in-github.md
+
+
