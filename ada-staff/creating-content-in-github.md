@@ -54,4 +54,4 @@ At this time, we have outsourced the training for writing Markdown to [this guid
 
 ## What's Next
 
-Next we will learn how to create interactive content in Learn using the Learn Command Line Interface Tool.
+Next we will learn how to publish our course on Learn.

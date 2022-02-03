@@ -24,12 +24,12 @@ Standards:
         Path: /ada-staff/creating-content-in-github.md
       -
         Type: Lesson
-        UID: 5a781c3a-571c-4041-beda-a43bbb713f1f
-        Path: /ada-staff/interactive.md
-      -
-        Type: Lesson
         UID: bb63ac9c-3881-4742-89e3-38172bd03d21
         Path: /ada-staff/publishing-curriculum.md
+      -
+        Type: Lesson
+        UID: 5a781c3a-571c-4041-beda-a43bbb713f1f
+        Path: /ada-staff/interactive.md
       -
         Type: Lesson
         UID: c5b5d746-d6fc-4e03-a382-7fe63fb09a16

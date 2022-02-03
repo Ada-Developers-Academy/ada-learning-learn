@@ -46,16 +46,6 @@ Below we can see what the raw Markdown looks like for the **Introduction and Get
 
 ![Lesson Markdown](../assets/github-markdown.png)
 
-## Publishing to Learn
-
-The order of the Topics in a Unit in Learn is prescribed by another document, the `config.yaml` file. 
-
-Below is the `config.yaml` for this Unit. 
-
-![config.yaml](../assets/github-config.png)
-
-Work with a Learn Admin to create the `config.yaml` for the Unit(s) in your course.
-
 ## Summary
 
 | Learn term      | GitHub Term |

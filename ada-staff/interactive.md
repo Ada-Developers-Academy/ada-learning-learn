@@ -164,4 +164,4 @@ Add one of each of these types of questions to your sample Learn lesson.
 
 ## What's Next
 
-Next we will learn how to publish curriculum in Learn.
+Ask a Learn Admin to partner with you to create a new repository and Learn course for your curriculum!
