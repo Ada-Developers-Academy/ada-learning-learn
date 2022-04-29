@@ -22,6 +22,8 @@ To start, we'll create a new Topic with your name in the title and one lesson (t
 
 Nagivate to the [ada-learning-learn-sandbox repository]((https://github.com/ada-developers-academy/ada-learning-learn-sandbox)
 
+### Add lesson
+
 Select **Add file**, **Create new file**"
 
 ![Add file](../assets/creating-content-add-file.png)
@@ -33,10 +35,17 @@ Then add content to the file.
 ![Add new file](../assets/creating-content-new-file.png)
 ![Add new file](../assets/creating-content-new-topic.png)
 
+### Preview lesson
 
 We can **Preview** the file to see the rendered Markdown.
 
 ![Markdown preview](../assets/creating-content-preview.png)
+
+### Save lesson
+
+To save our work, we scroll down to the bottom of the screen to the **Commit** section, write a meaningful message in the first input box, and click the green button: **Commit new file**.
+
+![Commit new file](../assets/commit-new-file.png)
 
 
 ## Markdown
