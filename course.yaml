@@ -1,4 +1,7 @@
 :Course:
-- :Section: Documentation and Training
+- :Section: Ada Staff
   :Repos:
   - :Url: https://github.com/Ada-Developers-Academy/ada-learning-learn
+- :Section: Technical Staff
+  :Repos:
+  - :Url: https://github.com/Ada-Developers-Academy/ada-learn-workshop
