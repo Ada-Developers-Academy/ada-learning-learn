@@ -22,4 +22,6 @@ Instructional Staff should continue to the Instructional Staff Unit and review t
     - Coding Assignments
     - Grading Intro
 
+You can continue work in your topic in the [Ada Learning Learn Sandbox Repo](https://github.com/ada-developers-academy/ada-learning-learn-sandbox) locally and push up your changes.
+
 Instructors may choose to review the first topic, **Setting Up Course**, but note that they will not have the authorization to create new courses.
