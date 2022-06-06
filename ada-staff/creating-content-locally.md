@@ -18,9 +18,10 @@ Future content on **git** may be added to this course for non-instructional staf
 ## Instructional Staff
 
 Instructional Staff should continue to the Instructional Staff Unit and review the following topics:
-    - Setting Up Course
-    - Creating A Lesson
-    - Coding Assignments
-    - Grading Intro
+
+- Setting Up Course
+- Creating A Lesson
+- Coding Assignments
+- Grading Intro
 
 
