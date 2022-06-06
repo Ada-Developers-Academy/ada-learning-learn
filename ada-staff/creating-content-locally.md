@@ -11,17 +11,16 @@ Creating content locally on our computer in a text editor will make it easier to
 
 ## Future Content
 
-Future content on **git** may be added to this for non-instructional staff.
+Future content on **git** may be added to this course for non-instructional staff.
 
 ### !end-callout
 
 ## Instructional Staff
 
-Instructional Staff should continue to the Instructional Staff Unit and review the following topics: 
+Instructional Staff should continue to the Instructional Staff Unit and review the following topics:
+    - Setting Up Course
     - Creating A Lesson
     - Coding Assignments
     - Grading Intro
 
-You can continue work in your topic in the [Ada Learning Learn Sandbox Repo](https://github.com/ada-developers-academy/ada-learning-learn-sandbox) locally and push up your changes.
 
-Instructors may choose to review the first topic, **Setting Up Course**, but note that they will not have the authorization to create new courses.
